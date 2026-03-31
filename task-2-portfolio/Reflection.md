@@ -1,4 +1,4 @@
-Task 1 – Digital Literacy Awareness Infographic
+Task 1 Digital Literacy Awareness Infographic
 
 What I Made
 
@@ -12,4 +12,4 @@ Safe internet practices strong passwords, 2FA, phishing awareness
 
 Professional online presence tips
 
-Tool Used Canva canva.com — free browser-based design tool with ready-made infographic templates.
+Tool Used Canva canva.com free browser-based design tool with ready-made infographic templates.
