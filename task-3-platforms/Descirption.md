@@ -1,6 +1,6 @@
 Task 3 – Coding & Collaboration Platforms
 
-Part A – Coding Practice Platform: HACKER EARTH HACKER EARTH is one of India's most widely used competitive programming platforms. \
+Part A – Coding Practice Platform: Hacker Rank is one of India's most widely used competitive programming platforms. \
 Hosting regular contests and a large problem archive organised by difficulty.
 I created an account and completed a beginner-level challenge to get familiar with the submission and evaluation system.
 
